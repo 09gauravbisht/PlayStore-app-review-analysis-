@@ -1,2 +1,2 @@
-# PlayStore-app-review-analysis-
-Comprehensive analysis of more than 10k plus apps in google play store
+# CAPSTONE-1-PlayStore-app-review-analysis-Gaurav-bisht
+
